@@ -1,0 +1,1010 @@
+[
+  {
+    "laliga": {
+      "id": "1",
+      "name": "la liga",
+      "matches": {
+        "matchday": "7",
+        "home_team": [
+          "Real Betis"
+        ],
+        "away_team": [
+          "Granada CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "51"
+        ],
+        "home": "1",
+        "away": "0"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "9",
+          "Shots on target": "4",
+          "passes": "335",
+          "fouls": "5",
+          "yellow cards": "2",
+          "red cards": "0",
+          "corners": "8"
+        },
+        "away_team": {
+          "shots": "3",
+          "Shots on target": "2",
+          "passes": "265",
+          "fouls": "15",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "5"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "2",
+      "name": "la liga",
+      "matches": {
+        "matchday": "25",
+        "home_team": [
+          "Athletic Club Bilbao"
+        ],
+        "away_team": [
+          "Granada CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "40"
+        ],
+        "home": "0",
+        "away": "0"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "8",
+          "Shots on target": "4",
+          "passes": "355",
+          "fouls": "4",
+          "yellow cards": "1",
+          "red cards": "0",
+          "corners": "4"
+        },
+        "away_team": {
+          "shots": "5",
+          "Shots on target": "2",
+          "passes": "333",
+          "fouls": "2",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "2"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "3",
+      "name": "la liga",
+      "matches": {
+        "matchday": "25",
+        "home_team": [
+          "Athletic Club Bilbao"
+        ],
+        "away_team": [
+          "Elche CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "73"
+        ],
+        "home": "2",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "10",
+          "Shots on target": "8",
+          "passes": "411",
+          "fouls": "13",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "1"
+        },
+        "away_team": {
+          "shots": "7",
+          "Shots on target": "3",
+          "passes": "358",
+          "fouls": "11",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "5"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "89",
+      "name": "la liga",
+      "matches": {
+        "matchday": "13",
+        "home_team": [
+          "Athletic Club Bilbao"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "81"
+        ],
+        "home": "3",
+        "away": "2"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "9",
+          "Shots on target": "6",
+          "passes": "528",
+          "fouls": "12",
+          "yellow cards": "4",
+          "red cards": "0",
+          "corners": "3"
+        },
+        "away_team": {
+          "shots": "5",
+          "Shots on target": "4",
+          "passes": "421",
+          "fouls": "8",
+          "yellow cards": "3",
+          "red cards": "0",
+          "corners": "1"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "88",
+      "name": "la liga",
+      "matches": {
+        "matchday": "8",
+        "home_team": [
+          "Deportivo Alavés"
+        ],
+        "away_team": [
+          "Atlético Madrid"
+        ]
+      },
+      "score": {
+        "time": [
+          "75"
+        ],
+        "home": "2",
+        "away": "3"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "5",
+          "Shots on target": "3",
+          "passes": "308",
+          "fouls": "11",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "4"
+        },
+        "away_team": {
+          "shots": "15",
+          "Shots on target": "6",
+          "passes": "542",
+          "fouls": "13",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "7"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "46",
+      "name": "la liga",
+      "matches": {
+        "matchday": "1",
+        "home_team": [
+          "Real Madrid"
+        ],
+        "away_team": [
+          "Granada CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "45"
+        ],
+        "home": "7",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "22",
+          "Shots on target": "12",
+          "passes": "603",
+          "fouls": "13",
+          "yellow cards": "1",
+          "red cards": "0",
+          "corners": "8"
+        },
+        "away_team": {
+          "shots": "4",
+          "Shots on target": "2",
+          "passes": "282",
+          "fouls": "8",
+          "yellow cards": "2",
+          "red cards": "0",
+          "corners": "8"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "27",
+      "name": "la liga",
+      "matches": {
+        "matchday": "21",
+        "home_team": [
+          "Real Madrid"
+        ],
+        "away_team": [
+          "Atlético Madrid"
+        ]
+      },
+      "score": {
+        "time": [
+          "66"
+        ],
+        "home": "3",
+        "away": "2"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "16",
+          "Shots on target": "8",
+          "passes": "370",
+          "fouls": "1",
+          "yellow cards": "4",
+          "red cards": "0",
+          "corners": "8"
+        },
+        "away_team": {
+          "shots": "9",
+          "Shots on target": "5",
+          "passes": "316",
+          "fouls": "1",
+          "yellow cards": "2",
+          "red cards": "1",
+          "corners": "5"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "5",
+      "name": "la liga",
+      "matches": {
+        "matchday": "31",
+        "home_team": [
+          "Cádiz CF"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "18"
+        ],
+        "home": "4",
+        "away": "7"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "22",
+          "Shots on target": "9",
+          "passes": "340",
+          "fouls": "14",
+          "yellow cards": "3",
+          "red cards": "0",
+          "corners": "3"
+        },
+        "away_team": {
+          "shots": "20",
+          "Shots on target": "4",
+          "passes": "121",
+          "fouls": "12",
+          "yellow cards": "3",
+          "red cards": "0",
+          "corners": "6"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "20",
+      "name": "la liga",
+      "matches": {
+        "matchday": "17",
+        "home_team": [
+          "Cádiz CF"
+        ],
+        "away_team": [
+          "Elche CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "41"
+        ],
+        "home": "0",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "4",
+          "Shots on target": "6",
+          "passes": "172",
+          "fouls": "4",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "8"
+        },
+        "away_team": {
+          "shots": "2",
+          "Shots on target": "5",
+          "passes": "560",
+          "fouls": "2",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "8"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "66",
+      "name": "la liga",
+      "matches": {
+        "matchday": "19",
+        "home_team": [
+          "Deportivo Alavés"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "88"
+        ],
+        "home": "0",
+        "away": "5"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "18",
+          "Shots on target": "7",
+          "passes": "388",
+          "fouls": "8",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "3"
+        },
+        "away_team": {
+          "shots": "3",
+          "Shots on target": "9",
+          "passes": "91",
+          "fouls": "7",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "7"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "39",
+      "name": "la liga",
+      "matches": {
+        "matchday": "18",
+        "home_team": [
+          "Athletic Club Bilbao"
+        ],
+        "away_team": [
+          "FC Barcelona"
+        ]
+      },
+      "score": {
+        "time": [
+          "59"
+        ],
+        "home": "4",
+        "away": "3"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "19",
+          "Shots on target": "8",
+          "passes": "213",
+          "fouls": "10",
+          "yellow cards": "2",
+          "red cards": "1",
+          "corners": "3"
+        },
+        "away_team": {
+          "shots": "12",
+          "Shots on target": "7",
+          "passes": "249",
+          "fouls": "14",
+          "yellow cards": "4",
+          "red cards": "1",
+          "corners": "0"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "34",
+      "name": "la liga",
+      "matches": {
+        "matchday": "32",
+        "home_team": [
+          "SD Eibar"
+        ],
+        "away_team": [
+          "Atlético Madrid"
+        ]
+      },
+      "score": {
+        "time": [
+          "90+5"
+        ],
+        "home": "0",
+        "away": "4"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "17",
+          "Shots on target": "12",
+          "passes": "216",
+          "fouls": "6",
+          "yellow cards": "8",
+          "red cards": "1",
+          "corners": "2"
+        },
+        "away_team": {
+          "shots": "13",
+          "Shots on target": "3",
+          "passes": "124",
+          "fouls": "4",
+          "yellow cards": "2",
+          "red cards": "1",
+          "corners": "4"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "71",
+      "name": "la liga",
+      "matches": {
+        "matchday": "12",
+        "home_team": [
+          "Deportivo Alavés"
+        ],
+        "away_team": [
+          "Elche CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "41"
+        ],
+        "home": "4",
+        "away": "7"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "24",
+          "Shots on target": "5",
+          "passes": "197",
+          "fouls": "7",
+          "yellow cards": "4",
+          "red cards": "0",
+          "corners": "5"
+        },
+        "away_team": {
+          "shots": "9",
+          "Shots on target": "12",
+          "passes": "669",
+          "fouls": "1",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "3"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "5",
+      "name": "la liga",
+      "matches": {
+        "matchday": "20",
+        "home_team": [
+          "RC Celta Vigo"
+        ],
+        "away_team": [
+          "Granada CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "47"
+        ],
+        "home": "3",
+        "away": "4"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "6",
+          "Shots on target": "1",
+          "passes": "393",
+          "fouls": "12",
+          "yellow cards": "6",
+          "red cards": "1",
+          "corners": "2"
+        },
+        "away_team": {
+          "shots": "7",
+          "Shots on target": "10",
+          "passes": "405",
+          "fouls": "9",
+          "yellow cards": "5",
+          "red cards": "1",
+          "corners": "1"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "43",
+      "name": "la liga",
+      "matches": {
+        "matchday": "23",
+        "home_team": [
+          "RC Celta Vigo"
+        ],
+        "away_team": [
+          "Atlético Madrid"
+        ]
+      },
+      "score": {
+        "time": [
+          "70"
+        ],
+        "home": "3",
+        "away": "2"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "3",
+          "Shots on target": "8",
+          "passes": "421",
+          "fouls": "5",
+          "yellow cards": "5",
+          "red cards": "1",
+          "corners": "7"
+        },
+        "away_team": {
+          "shots": "24",
+          "Shots on target": "3",
+          "passes": "622",
+          "fouls": "9",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "8"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "59",
+      "name": "la liga",
+      "matches": {
+        "matchday": "1",
+        "home_team": [
+          "SD Eibar"
+        ],
+        "away_team": [
+          "Sevilla FC"
+        ]
+      },
+      "score": {
+        "time": [
+          "1"
+        ],
+        "home": "6",
+        "away": "4"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "14",
+          "Shots on target": "12",
+          "passes": "431",
+          "fouls": "14",
+          "yellow cards": "4",
+          "red cards": "0",
+          "corners": "2"
+        },
+        "away_team": {
+          "shots": "17",
+          "Shots on target": "5",
+          "passes": "238",
+          "fouls": "1",
+          "yellow cards": "6",
+          "red cards": "1",
+          "corners": "0"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "41",
+      "name": "la liga",
+      "matches": {
+        "matchday": "18",
+        "home_team": [
+          "Deportivo Alavés"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "87"
+        ],
+        "home": "0",
+        "away": "0"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "13",
+          "Shots on target": "11",
+          "passes": "655",
+          "fouls": "14",
+          "yellow cards": "3",
+          "red cards": "0",
+          "corners": "2"
+        },
+        "away_team": {
+          "shots": "11",
+          "Shots on target": "11",
+          "passes": "267",
+          "fouls": "13",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "6"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "72",
+      "name": "la liga",
+      "matches": {
+        "matchday": "24",
+        "home_team": [
+          "Real Madrid"
+        ],
+        "away_team": [
+          "Getafe CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "Fin time"
+        ],
+        "home": "6",
+        "away": "6"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "21",
+          "Shots on target": "7",
+          "passes": "629",
+          "fouls": "7",
+          "yellow cards": "7",
+          "red cards": "0",
+          "corners": "4"
+        },
+        "away_team": {
+          "shots": "10",
+          "Shots on target": "6",
+          "passes": "665",
+          "fouls": "5",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "2"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "34",
+      "name": "la liga",
+      "matches": {
+        "matchday": "30",
+        "home_team": [
+          "Athletic Club Bilbao"
+        ],
+        "away_team": [
+          "FC Barcelona"
+        ]
+      },
+      "score": {
+        "time": [
+          "69"
+        ],
+        "home": "0",
+        "away": "5"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "23",
+          "Shots on target": "1",
+          "passes": "572",
+          "fouls": "12",
+          "yellow cards": "4",
+          "red cards": "1",
+          "corners": "6"
+        },
+        "away_team": {
+          "shots": "21",
+          "Shots on target": "7",
+          "passes": "668",
+          "fouls": "3",
+          "yellow cards": "8",
+          "red cards": "0",
+          "corners": "5"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "67",
+      "name": "la liga",
+      "matches": {
+        "matchday": "11",
+        "home_team": [
+          "Cádiz CF"
+        ],
+        "away_team": [
+          "Granada CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "75"
+        ],
+        "home": "6",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "23",
+          "Shots on target": "4",
+          "passes": "395",
+          "fouls": "4",
+          "yellow cards": "2",
+          "red cards": "1",
+          "corners": "2"
+        },
+        "away_team": {
+          "shots": "3",
+          "Shots on target": "5",
+          "passes": "329",
+          "fouls": "9",
+          "yellow cards": "5",
+          "red cards": "0",
+          "corners": "4"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "73",
+      "name": "la liga",
+      "matches": {
+        "matchday": "21",
+        "home_team": [
+          "SD Eibar"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "76"
+        ],
+        "home": "5",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "16",
+          "Shots on target": "11",
+          "passes": "556",
+          "fouls": "13",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "0"
+        },
+        "away_team": {
+          "shots": "4",
+          "Shots on target": "2",
+          "passes": "545",
+          "fouls": "15",
+          "yellow cards": "1",
+          "red cards": "0",
+          "corners": "3"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "4",
+      "name": "la liga",
+      "matches": {
+        "matchday": "2",
+        "home_team": [
+          "RC Celta Vigo"
+        ],
+        "away_team": [
+          "Sevilla FC"
+        ]
+      },
+      "score": {
+        "time": [
+          "35"
+        ],
+        "home": "1",
+        "away": "1"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "24",
+          "Shots on target": "1",
+          "passes": "373",
+          "fouls": "3",
+          "yellow cards": "6",
+          "red cards": "0",
+          "corners": "8"
+        },
+        "away_team": {
+          "shots": "7",
+          "Shots on target": "5",
+          "passes": "191",
+          "fouls": "5",
+          "yellow cards": "8",
+          "red cards": "0",
+          "corners": "2"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "53",
+      "name": "la liga",
+      "matches": {
+        "matchday": "11",
+        "home_team": [
+          "RC Celta Vigo"
+        ],
+        "away_team": [
+          "Valencia CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "54"
+        ],
+        "home": "4",
+        "away": "3"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "23",
+          "Shots on target": "9",
+          "passes": "514",
+          "fouls": "15",
+          "yellow cards": "7",
+          "red cards": "0",
+          "corners": "0"
+        },
+        "away_team": {
+          "shots": "19",
+          "Shots on target": "7",
+          "passes": "655",
+          "fouls": "15",
+          "yellow cards": "4",
+          "red cards": "0",
+          "corners": "2"
+        }
+      }
+    }
+  },
+  {
+    "laliga": {
+      "id": "44",
+      "name": "la liga",
+      "matches": {
+        "matchday": "22",
+        "home_team": [
+          "Real Madrid"
+        ],
+        "away_team": [
+          "Getafe CF"
+        ]
+      },
+      "score": {
+        "time": [
+          "1"
+        ],
+        "home": "7",
+        "away": "5"
+      },
+      "statistics": {
+        "home_team": {
+          "shots": "15",
+          "Shots on target": "8",
+          "passes": "469",
+          "fouls": "6",
+          "yellow cards": "1",
+          "red cards": "0",
+          "corners": "5"
+        },
+        "away_team": {
+          "shots": "5",
+          "Shots on target": "10",
+          "passes": "537",
+          "fouls": "4",
+          "yellow cards": "1",
+          "red cards": "1",
+          "corners": "7"
+        }
+      }
+    }
+  }
+]
