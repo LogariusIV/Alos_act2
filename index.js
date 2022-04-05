@@ -12,6 +12,12 @@ app.get('/laliga', (req, res) => {
 app.get('/laliga/:id', (req, res) => {
     const id = parseInt(req.params.id)
     const laligaid = laliga.find(laligaid => laligaid.id === id)
+    for (let laligaid of laliga) {
+      if (laligaid.id === id) {
+          res.json(laligaid);
+          return;
+      }
+  }
     res.status(200).json(laliga)
   })
 
