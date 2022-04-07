@@ -1,8 +1,9 @@
 const express = require('express')
 const app = express()
 const laliga = require('./laliga.json')
+const { validationResult } = require('express-validator')
 
-//middlware
+//calling body-parser middlware
 app.use(express.json())
 
 app.get('/laliga', (req, res) => {
@@ -24,6 +25,11 @@ app.get('/laliga/:id', (req, res) => {
 
 
 app.post('/laliga', (req,res) => {
+  //Errorhandler
+  const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
   laliga.push(req.body)
   res.status(200).json(laliga)
 })
