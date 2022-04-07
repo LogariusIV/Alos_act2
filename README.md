@@ -30,3 +30,8 @@ to install nodemon run command:
 $ npm i --save-dev nodemon
 ```
 - First, we created ``GET`` endpoint right beneath the boilerplate. When a user hits the endpoint with a ``GET`` request, the data from [laliga.json](https://github.com/LogariusIV/Alos_act2/blob/main/laliga.json) will be returned.
+- Then, ``POST`` endpoint:
+
+To retrieve the data passed in the ``POST`` request, we need to add middleware to our Node JS API so that it is able to interpret the request body. This middleware will place itself between the arrival of the request and our routes and execute its code, making it possible to access the body.
+
+Our middleware will be **body-parser**. Since express has natively integrated body parser, we can therefore just use ``express.json()`` and avoid importing a new library already present in Express.
