@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LaLiga</title>
+</head>
+<body>
+    <style>
+        .container {
+            margin: auto;
+            text-align: center;
+            width: 480px;
+            font-size: large;
+            border-color: black;
+            border-width: 1px;
+            background-color: rgba(226, 218, 218, 0.281);
+            border-radius: 2%;
+            border-style: solid;
+        }
+        .form-group{
+            margin: 2px;
+        }
+        .btn{
+            margin-bottom: 10px;
+        }
+      </style>
+    <div class="container">
+        
+        <h1>Add Matches Results</h1>
+        <hr>
+    
+        <form action="http://localhost:3000/laliga" method="POST">
+            <div class="form-group">
+                <label for="ID">ID</label>
+                <input class="form-control" name="id" required="true">
+            </div>
+    
+            <div class="form-group">
+                <label for="Matchday">Matchday</label>
+                <input class="form-control" name="matchday" required="true">
+            </div>
+
+            <div class="form-group">
+                <label for="Home_team">Home team</label>
+                <input class="form-control" name="home_team" type="text" required placeholder="Real Madrid"
+                maxlength="15">
+            </div>
+
+            <div class="form-group">
+                <label for="Away_team">Away team</label>
+                <input class="form-control" name="away_team" type="text" required placeholder="Barcelona"
+                maxlength="15">
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="Home">Home</label>
+                <input class="form-control" name="home" required="true">
+                <br>
+                <label for="Home_team_shots">Home team shots</label>
+                <input class="form-control" name="home_team_shots" required="true">
+                <br>
+                <label for="Home_team_passes">Home team passes</label>
+                <input class="form-control" name="home_team_passes" required="true">
+                <br>
+                <label for="Home_team_fouls">Home team fouls</label>
+                <input class="form-control" name="home_team_fouls" required="true">
+                <br>
+                <label for="Home_team_corners">Home team corners</label>
+                <input class="form-control" name="home_team_corners" required="true">
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="Away">Away</label>
+                <input class="form-control" name="away" required="true">
+                <br>
+                <label for="Away_team_shots">Away team shots</label>
+                <input class="form-control" name="away_team_shots" required="true">
+                <br>
+                <label for="Away_team_passes">Away team passes</label>
+                <input class="form-control" name="away_team_passes" required="true">
+                <br>
+                <label for="Away_team_fouls">Away team fouls</label>
+                <input class="form-control" name="away_team_fouls" required="true">
+                <br>
+                <label for="Away_team_corners">Away team corners</label>
+                <input class="form-control" name="away_team_corners" required="true">
+            </div>
+
+            <br>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
