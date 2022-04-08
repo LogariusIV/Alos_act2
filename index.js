@@ -1,51 +1,48 @@
 const express = require('express')
 const app = express()
-const laliga = require('./laliga.json')
-const { validationResult } = require('express-validator')
 
-//calling body-parser middlware
-app.use(express.json())
+//calling body-parser & cors middlware
+const bodyParser = require('body-parser')
+const cors = require('cors')
+
+// Where we will keep matches results
+let La_liga = []
+
+app.use(cors())
+
+// Configuring body parser middleware
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(bodyParser.json())
+
+
+app.post('/laliga', (req,res) => {
+  
+  const liga = req.body
+
+  // Output the matches results to the console for debugging
+  console.log(liga)
+  La_liga.push(liga)
+
+  res.send('Match result is added to the database')
+})
 
 app.get('/laliga', (req, res) => {
-  res.status(200).json(laliga)
+  res.status(200).json(La_liga)
 })
 
 app.get('/laliga/:id', (req, res) => {
     // Reading id from the URL
-    const id = parseInt(req.params.id)
-    const laligaid = laliga.find(laligaid => laligaid.id === id)
-    for (let laligaid of laliga) {
+    const id = req.params.id
+    
+    for (let laligaid of La_liga) {
       if (laligaid.id === id) {
           res.json(laligaid);
           return;
       }
   }
-    res.status(200).json(laliga)
+    res.status(404).send('Match result not found')
   })
 
-
-app.post('/laliga', (req,res) => {
-  //Errorhandler
-  const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-      return res.status(400).json({ errors: errors.array() });
-    }
-  laliga.push(req.body)
-  res.status(200).json(laliga)
-})
-
-app.delete('/book/:id', (req, res) => {
-  const id = req.params.id;
-
-  laliga = laliga.filter(i => {
-      if (i.id !== id) {
-          return true;
-      }
-      return false;
-  });
-
-  res.send('match is deleted');
-});
 
 app.listen(3000, () => {
   console.log('Server Started')
